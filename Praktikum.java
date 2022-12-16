@@ -4,7 +4,8 @@ public class Praktikum {
     public static void main(String[] args) {
 
         //
-        //
+        // один раз 
+	// трениремся ??
         //
 
         Scanner scanner = new Scanner(System.in);
